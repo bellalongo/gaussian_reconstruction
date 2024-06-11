@@ -1,1 +1,1 @@
-# guassian_reconstruction
+# gaussian_reconstruction
